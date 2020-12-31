@@ -1,4 +1,4 @@
 .config
 .db
-dummy_folder /
-node_modules /
+dummy_folder/
+node_modules/
