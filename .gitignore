@@ -1,4 +1,6 @@
 .config
 .db
+.bob
 dummy_folder/
 node_modules/
+dummy2/
